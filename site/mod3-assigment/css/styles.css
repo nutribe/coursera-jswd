@@ -1,0 +1,28 @@
+nav.navbar {
+
+	background: #f6b319;
+}
+
+nav ul {
+
+	background: #117c3e;
+	
+}
+
+#menu-collapse a {
+	color: #f6b319;
+}
+
+.navbar-brand h1 {
+
+	color: #557c3e;
+	display: inline;
+	font-size: 1.5em;
+}
+
+main .section {
+
+	background: #eee;
+	width: 100%;
+	height: 1000px;
+}
